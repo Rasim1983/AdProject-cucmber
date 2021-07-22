@@ -58,7 +58,7 @@ public class Driver {
     }
 
     /*
-    This method makes sure we have some from of driver sesion or driver id has.
+    This method makes sure we have some from of driver session or driver id has.
     Either null or
      */
 
